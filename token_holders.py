@@ -1,5 +1,4 @@
 import requests
-from datetime import datetime
 
 url = "https://api.sunpump.meme/pump-api/token/holders?page=%d&size=10&address=TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT"
 
